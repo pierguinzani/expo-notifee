@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-notifee",
+    "slug": "expo-notifee",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
