@@ -5,6 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "plugins": [
+      "@notifee/react-native"
+    ],
+    "android": {
+      "package": "com.exponotifee"
+    }
   }
 }
